@@ -1,0 +1,20 @@
+{
+  "name": "dev.to",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kumo-by-Theodo/articles.git"
+  },
+  "scripts": {
+    "prettier": "prettier",
+    "embedme": "embedme blog-posts/**/*.md",
+    "prettier:write": "prettier . --write",
+    "prettier:check": "prettier . -c",
+    "embedme:check": "yarn embedme --verify",
+    "dev-to-git": "dev-to-git"
+  },
+  "dependencies": {
+    "dev-to-git": "1.4.9",
+    "embedme": "1.22.0",
+    "prettier": "2.6.1"
+  }
+}
