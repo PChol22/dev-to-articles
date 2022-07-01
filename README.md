@@ -1,10 +1,12 @@
-# Kumo template to sync articles with dev.to
+# Pchol22's blog source
 
-## Follow the first install doc
+https://dev.to/pchol22
 
-==> [First installation](./docs/install.md) <==
+## Blog posts
 
-## Read documentation
+- [WIP](https://dev.to/)
+
+## Documentation
 
 - [Context](./docs/context.md)
 - [Usage](./docs/usage.md)
