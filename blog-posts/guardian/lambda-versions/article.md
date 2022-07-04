@@ -1,6 +1,6 @@
 ---
 published: false
-title: 'AWS Lambda Versions : Time to clean up!'
+title: 'AWS Lambda Versions : Time to clean up! - Guardian is watching over you'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/guardian/lambda-versions/assets/cover_image.png
 description: ''
 tags: serverless, lambda, quality, AWS
@@ -16,17 +16,17 @@ Lambda versioning is great and might come in handy, but do you really need to ke
 
 ## 1. Less is more
 
-It sure can help to have a backup version of your code to rollback to in case of an emergency, but the day it happens, you will feel a lot more conformable only having to chose between two or three documented, aliased versions than being overwhelmed by dozens of anonymous and forgotten ones.
+It sure can help to have a backup version of your code to rollback to in case of an emergency, but the day it happens, you will feel a lot more comfortable only having to chose between two or three documented, aliased versions than being overwhelmed by dozens of anonymous and forgotten ones.
 
 ![Button meme](./assets/button_meme.png 'Button Meme')
 
 ## 2. Beware of AWS Lambda quotas
 
-AWS Lambda enforces a regional [75GB limit][quotas] for all your uploaded packages. This threshold might seem hard to reach and harmless, but it takes into account every version of every lambda you have deployed: dozens of versions per function multiplied by a large bundle size (see our [previous article][guardian-bundle-size-article]) will take you to past this ceiling in no time.
+AWS Lambda enforces a regional [75 GB limit][quotas] for all your uploaded packages. This threshold might seem hard to reach and harmless, but it takes into account every version of every Lambda you have deployed: dozens of versions per function multiplied by a large bundle size (see our [previous article][guardian-bundle-size-article]) will take you to over this threshold in no time.
 
-It is possible to raise this soft limit by contacting the support, but it's not a sustainable workaround, and you don't want to be stuck unable to upload when there's an important fix to deploy.
+It is possible to raise this soft limit by contacting the support, but it's not a sustainable workaround, and you don't want to be stuck unable to upload your new version when there's an important fix to deploy.
 
-# Easily monitor your lambdas versioning with Guardian 🛡️
+# Easily monitor your Lambdas versioning with Guardian 🛡️
 
 [Guardian][guardian] now offers a **new rule** preventing your lambdas versions counter from going crazy.
 
@@ -45,7 +45,7 @@ Guardian is available on [NPM][npm-registry]. You will find instructions to use 
 
 # See also
 
-There also many other tools helping you manage your lambdas versioning. One of them is [Serverless Prune Plugin][serverless-prune-plugin], which integrates with the Serverless Framework and allows you to only keep a certain amount of recent versions for each one of your functions.
+There also many other tools helping you manage your Lambdas versioning. One of them is [Serverless Prune Plugin][serverless-prune-plugin], which integrates with the Serverless Framework and allows you to only keep a certain amount of recent versions for each of your functions.
 
 To go deeper into AWS Lambda deployment quotas and how to deal with them, check out [this article from Yan Cui][quotas-article].
 
