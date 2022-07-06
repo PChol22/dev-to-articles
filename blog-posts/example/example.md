@@ -20,7 +20,7 @@ You can also take advantage of [embedme](https://github.com/zakhenry/embedme) to
 // code/demo-code.ts
 
 interface A {
-  hello: string;
+  helloo: string;
 }
 ```
 
