@@ -1,8 +1,7 @@
 ---
 published: false
 title: 'AWS Lambda Versions : Time to clean up! - Guardian is watching over you'
-[comment]: <> (Change link before merge (set branch to master))
-cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/guardian-lambda-versions/blog-posts/guardian/lambda-versions/assets/cover_image.png
+cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/guardian/lambda-versions/assets/cover_image.png
 description: ''
 tags: serverless, lambda, quality, AWS
 series:
