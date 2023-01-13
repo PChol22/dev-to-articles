@@ -6,5 +6,9 @@
   {
     "id": 1302415,
     "relativePathToArticle": "./blog-posts/emails/article.md"
+  },
+  {
+    "id": 1321688,
+    "relativePathToArticle": "./blog-posts/sls-mentor/release/article.md"
   }
 ]
