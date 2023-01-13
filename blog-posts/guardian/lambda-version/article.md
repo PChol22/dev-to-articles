@@ -4,7 +4,7 @@ title: 'AWS Lambda Versions : Time to clean up! - sls-mentor is watching over yo
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/guardian/lambda-version/assets/cover_image.png
 description: ''
 tags: serverless, lambda, quality, AWS
-series:
+series: sls-mentor
 canonical_url:
 ---
 
