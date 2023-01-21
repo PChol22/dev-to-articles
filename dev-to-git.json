@@ -10,5 +10,9 @@
   {
     "id": 1321688,
     "relativePathToArticle": "./blog-posts/sls-mentor/release/article.md"
+  },
+  {
+    "id": 1336246,
+    "relativePathToArticle": "./blog-posts/cdk/portfolio/article.md"
   }
 ]
