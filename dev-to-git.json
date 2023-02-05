@@ -14,5 +14,9 @@
   {
     "id": 1336246,
     "relativePathToArticle": "./blog-posts/cdk/portfolio/article.md"
+  },
+  {
+    "id": 1354636,
+    "relativePathToArticle": "./blog-posts/learn-serverless/introduction/article.md"
   }
 ]
