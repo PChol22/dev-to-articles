@@ -22,5 +22,9 @@
   {
     "id": 1380302,
     "relativePathToArticle": "./blog-posts/learn-serverless/databases/article.md"
+  },
+  {
+    "id": 1386699,
+    "relativePathToArticle": "./blog-posts/sls-mentor/runtimes/article.md"
   }
 ]
