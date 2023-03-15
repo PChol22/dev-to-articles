@@ -30,5 +30,9 @@
   {
     "id": 1399664,
     "relativePathToArticle": "./blog-posts/sls-mentor/block-public-access/article.md"
+  },
+  {
+    "id": 1401166,
+    "relativePathToArticle": "./blog-posts/learn-serverless/storage/article.md"
   }
 ]
