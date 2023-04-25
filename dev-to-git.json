@@ -34,5 +34,9 @@
   {
     "id": 1401166,
     "relativePathToArticle": "./blog-posts/learn-serverless/storage/article.md"
+  },
+  {
+    "id": 1447635,
+    "relativePathToArticle": "./blog-posts/learn-serverless/authentication/article.md"
   }
 ]
