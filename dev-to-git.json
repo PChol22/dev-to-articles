@@ -50,5 +50,9 @@
   {
     "id": 1496837,
     "relativePathToArticle": "./blog-posts/learn-serverless/eventbridge/article.md"
+  },
+  {
+    "id": 1508815,
+    "relativePathToArticle": "./blog-posts/learn-serverless/sqs/article.md"
   }
 ]

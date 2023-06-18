@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step - EventBridge'
+title: 'Getting started with AWS serverless - EventBridge'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/eventbridge/assets/cover.png
 tags: AWS, serverless, javascript, tutorial
 series: 'Learn serverless on AWS step-by-step'
