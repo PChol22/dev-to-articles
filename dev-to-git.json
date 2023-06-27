@@ -54,5 +54,9 @@
   {
     "id": 1508815,
     "relativePathToArticle": "./blog-posts/learn-serverless/sqs/article.md"
+  },
+  {
+    "id": 1515623,
+    "relativePathToArticle": "./blog-posts/sst/deploy-next/article.md"
   }
 ]
