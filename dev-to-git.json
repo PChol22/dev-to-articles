@@ -66,5 +66,9 @@
   {
     "id": 1515617,
     "relativePathToArticle": "./blog-posts/learn-serverless/dynamodb-streams/article.md"
+  },
+  {
+    "id": 1515621,
+    "relativePathToArticle": "./blog-posts/sls-mentor/reporting/article.md"
   }
 ]
