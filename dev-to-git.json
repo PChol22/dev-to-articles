@@ -62,5 +62,9 @@
   {
     "id": 1515615,
     "relativePathToArticle": "./blog-posts/learn-serverless/aurora/article.md"
+  },
+  {
+    "id": 1515617,
+    "relativePathToArticle": "./blog-posts/learn-serverless/dynamodb-streams/article.md"
   }
 ]
