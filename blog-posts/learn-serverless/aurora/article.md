@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step - SQL with Aurora'
+title: 'Getting started with AWS serverless - SQL with Aurora'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/aurora/assets/cover.png
 description: ''
 tags: serverless, AWS, javascript, tutorial
