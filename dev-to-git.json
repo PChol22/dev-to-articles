@@ -74,5 +74,9 @@
   {
     "id": 1515616,
     "relativePathToArticle": "./blog-posts/learn-serverless/sns/article.md"
+  },
+  {
+    "id": 1515618,
+    "relativePathToArticle": "./blog-posts/learn-serverless/front/article.md"
   }
 ]

@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step - SNS'
+title: 'Getting started with AWS serverless - SNS'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/sns/assets/cover.png
 tags: AWS, serverless, javascript, tutorial
 series: 'Learn serverless on AWS step-by-step'

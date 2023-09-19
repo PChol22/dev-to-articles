@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step - DynamoDB Streams'
+title: 'Getting started with AWS serverless - DynamoDB Streams'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/dynamodb-streams/assets/cover.png
 description: ''
 tags: serverless, AWS, javascript, tutorial
