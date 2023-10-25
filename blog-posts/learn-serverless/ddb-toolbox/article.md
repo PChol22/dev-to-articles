@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Learn serverless on AWS step-by-step: Master DynamoDB!'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/ddb-toolbox/assets/cover.png
 description: 'Learn how to improve your DynamoDB developer experience and become a pro! Featuring strongly typed commands and queries'
@@ -407,6 +407,10 @@ The code has never been so clean! No more mentions to `PK` and `SK`, no more `.S
 
 Finally, as you can see in the last screenshot, dynamodb-toolbox automatically generates attributes `created` and `modified`, that are the date of creation and last modification of the item. This is very useful to keep track of the history of your items!
 
+## Stay tuned for dynamodb-toolbox v1 🚀
+
+dynamodb-toolbox is currently in its 0.9.x version, many things can be improved like the typing of complex LIST and MAP attributes for example. Be reassured, the author is working on a v1 that will be released soon! It will use a simpler syntax and will be 100% type-safe, [check this article][article-beta] to learn more about the beta version of this V1!
+
 ## Conclusion
 
 There is no demo in this article as it would be quite trivial, but if you deploy the code, you can test the three API endpoints and see that they work the same way. The only difference is the code of the Lambda handlers, which is cleaner and more natural when using DocumentClient, and even better, dynamodb-toolbox.
@@ -432,3 +436,4 @@ I you want to stay in touch here is my [twitter account][twitter]. I often post 
 [dynamodb-toolbox]: https://www.dynamodbtoolbox.com/
 [article-lambda]: https://dev.to/slsbytheodo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac
 [sls-mentor]: https://www.sls-mentor.dev
+[article-beta]: https://dev.to/slsbytheodo/new-dynamodb-toolbox-v1-beta-features-and-breaking-changes-1ji5

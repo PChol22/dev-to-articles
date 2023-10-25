@@ -1,3 +1,4 @@
 node_modules
 .DS_STORE
 blog-posts/**/*.json
+.env
