@@ -198,7 +198,7 @@ bookFlight.addToRolePolicy(
   }),
 );
 flightTable.grantReadData(bookFlight);
-myFirstApi.root.addResource('book-flight').addMethod('POST', new cdk.aws_apigateway.LambdaIntegration(bookFlight));
+api.root.addResource('book-flight').addMethod('POST', new cdk.aws_apigateway.LambdaIntegration(bookFlight));
 
 // Create the registerBooking lambda
 const registerBooking = new cdk.aws_lambda_nodejs.NodejsFunction(this, 'registerBooking', {

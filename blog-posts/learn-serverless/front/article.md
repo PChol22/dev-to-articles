@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step: Deploy a frontend!'
+title: 'Getting started with AWS serverless: Deploy a frontend!'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/front/assets/cover.png
 description: 'Learn how to deploy a frontend on AWS, and how to make it interact with your serverless backend!'
 tags: serverless, AWS, javascript, tutorial

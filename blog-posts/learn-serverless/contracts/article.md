@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step: Strong Types!'
+title: 'Getting started with AWS serverless: Strong Lambda Types!'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/contracts/assets/cover.png
 description: 'Learn how to share types between your lambda functions and your frontend, and how to use contracts to speed up your development!'
 tags: serverless, AWS, javascript, tutorial
@@ -299,6 +299,11 @@ npm install @swarmion/serverless-contracts -S
 Then, in our frontend, we can replace the old calls to `fetch` with calls generated from contracts:
 
 ```typescript
+import { getFetchRequest } from '@swarmion/serverless-contracts';
+import { createUserContract, listUsersContract } from '../../contracts';
+
+// ... rest of the component
+
 const syncUsers = async () => {
   const {
     body: { users },
