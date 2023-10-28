@@ -25,6 +25,10 @@ sls-mentor will **rate your application against 30 best practices**, and then as
 
 {% cta https://github.com/sls-mentor/sls-mentor %} Find us on Github ⭐️ {% endcta %}
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
 ## How does sls-mentor work?
 
 Nothing simpler! With your AWS credentials loaded in your CLI, run the following command:

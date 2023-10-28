@@ -24,6 +24,10 @@ _All the code of this article is available on [this repository][repository]._
 
 {% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
 
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## How to bring frontend and backend together: the monorepo
 
 Since the beginning of this series, I made the choice to create my backend apps using TypeScript. One of the underlying reasons was to be able to share code between my frontend and my backend, because the main frontend frameworks: react, next, vue, etc... are all compatible with TypeScript. This will pay off today, because we will be able to create a monorepo containing both our frontend and our backend, plus the code able to deploy the frontend on AWS.
@@ -468,3 +472,4 @@ I you want to stay in touch here is my [twitter account][twitter]. I often post 
 [series]: https://dev.to/pchol22/series/22030
 [article-frontend]: https://dev.to/slsbytheodo/easily-deploy-your-portfolio-website-with-aws-cdk-4l9b
 [repository]: https://github.com/PChol22/learn-serverless-backendxfrontend
+[sls-mentor]: https://www.sls-mentor.dev/

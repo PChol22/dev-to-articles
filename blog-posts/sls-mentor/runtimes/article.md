@@ -45,6 +45,8 @@ npx sls-mentor
 
 sls-mentor does much more than that! It allows you to audit your AWS applications against a set of rules based on best-practices, and it already supports more that 10 services, including S3, CloudFront, API Gateway, Lambda, and more.
 
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Need help?
 
 If you need help using the tool, check our [website][website] or [github][github]. You can also contact me on [twitter][twitter], I will be happy to help you!

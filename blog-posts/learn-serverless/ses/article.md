@@ -11,6 +11,14 @@ canonical_url:
 
 In this series, I try to explain the basics of serverless on AWS, to enable you to build your own serverless applications. With last article, we discovered how to orchestrate AWS services using Step-Functions. In this article, let's dive into SES, a service that allows you to send emails from your application.
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Introduction
 
 In this series, I try to explain the basics of serverless on AWS, to enable you to build your own serverless applications. We already learned how to create Lambda functions, interacting with databases, file storage, authentication and more. Now is time to implement some side-effects in your application. Emails are a good first step, they allow you to send receipts to your users, or to send them a password reset link for example.
@@ -298,3 +306,4 @@ I you want to stay in touch here is my [twitter account][twitter account]. I oft
 [learn-lambda]: https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac
 [can-i-email]: https://www.caniemail.com/
 [mjml]: https://mjml.io/
+[sls-mentor]: https://www.sls-mentor.dev

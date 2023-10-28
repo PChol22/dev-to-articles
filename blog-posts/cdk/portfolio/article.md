@@ -15,7 +15,9 @@ To reach this goal, I will use the AWS CDK (Cloud Development Kit) combined with
 
 ![CloudFront architecture](./assets/architecture.png 'CloudFront architecture')
 
-I used this deployment method to deploy the website of [sls-mentor][sls-mentor], an open-source AWS serverless audit tool I've been working on these last months. I will go step by step explaining everything I did when I achieved this.
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
 
 ## Set-up a TypeScript CDK project
 

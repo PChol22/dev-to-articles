@@ -22,6 +22,10 @@ In this series, I try to explain the basics of serverless on AWS, to enable you 
 
 {% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
 
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## SQL Serverless storage: HOW IS IT POSSIBLE???
 
 I know, SQL engines aren't really known for its serverless capabilities, as they intrinsically require a server to run. AWS is no exception: their SQL service AWS RDS is managed, but requires the provisioning of a server, and comes with a fixed cost.
@@ -389,3 +393,4 @@ I you want to stay in touch here is my [twitter account][twitter]. I often post 
 [acus]: https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.how-it-works.html
 [typeorm]: https://typeorm.io/#/
 [prisma]: https://www.prisma.io/
+[sls-mentor]: https://www.sls-mentor.dev

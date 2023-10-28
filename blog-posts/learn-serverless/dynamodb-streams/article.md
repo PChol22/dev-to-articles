@@ -24,6 +24,10 @@ There is a lot of code in this article, because I wanted to provide an example c
 
 {% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
 
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## What are DynamoDB streams and why are they useful?
 
 Basically, DynamoDB streams allow a target to listen to changes being made inside a DynamoDB table. When doing serverless, this target is often a Lambda function, that has side-effects based on the changes made to the table.
@@ -563,3 +567,4 @@ I you want to stay in touch here is my [twitter account][twitter]. I often post 
 [template-confirmed]: https://github.com/PChol22/learn-serverless/blob/main/lib/articleDDBStream/onReservationConfirmed/template.ts
 [template-pending]: https://github.com/PChol22/learn-serverless/blob/main/lib/articleDDBStream/onRestaurantBooked/template.ts
 [article-ses]: https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-emails-49hp
+[sls-mentor]: https://sls-mentor.dev

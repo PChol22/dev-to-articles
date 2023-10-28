@@ -17,6 +17,14 @@ This article is structured in three independent parts : three problems and their
 - [Avoiding to end up in spams](#2-make-sure-you-dont-end-up-in-your-users-spams)
 - [Designing responsive emails that display well on every mail client](#3-design-responsive-emails-that-look-good-in-any-mail-client)
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## ✉️ AWS SES ✉️
 
 As you may already know, AWS SES offers a great way to send emails with your AWS serverless app. Coupled with the AWS SDK and Lambda functions, it allows you to programmatically send emails to your users with minimal setup. However, this ease of use comes at the price of potential mistakes and pitfalls that can happen at every step of your coding journey. Let me guide you through three of these issues and help you design beautiful emails that never end up in your users spam.
@@ -395,3 +403,4 @@ For each of these problems, I tried to show you simple yet effective counter-mea
 [mjml-documentation]: https://documentation.mjml.io/#standard-body-components
 [mjml-live-editor]: https://mjml.io/try-it-live
 [caniemail]: https://www.caniemail.com/
+[sls-mentor]: https://sls-mentor.dev

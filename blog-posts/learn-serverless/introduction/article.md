@@ -13,6 +13,14 @@ _In this article, we will learn how to get started with serverless on AWS. It wi
 
 In this article, I teach you how to get started with serverless on AWS. If you already have an AWS account, feel free to skip to the [Create an AWS CDK project](#create-an-aws-cdk-project) section. I plan to release a series of articles about serverless, to learn step-by-step the specificities of this technology, so stay tuned!
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Why serverless?
 
 A massive gold rush towards cloud technologies has begun during these last years. The cloud is becoming the new standard for software development. It is a revolution that is changing the way we develop software, and it is far from being over. As developers, we have an important role to play is this transformation, and it is an opportunity for us to claim our place in this new paradigm.
@@ -214,3 +222,4 @@ I you want to stay in touch here is my [twitter account].
 
 [repository]: https://github.com/PChol22/learn-serverless
 [twitter account]: https://twitter.com/PierreChollet22
+[sls-mentor]: https://www.sls-mentor.dev

@@ -9,6 +9,14 @@ canonical_url:
 
 _In the [last article][last article], I covered the basics of creating Lambda functions on AWS, using the CDK. In this article, I will cover how to store data in a database using DynamoDB._
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Store data in a serverless database using DynamoDB
 
 AWS offers many ways to store data, but in this article, I will cover the most common service allowing to store data in a serverless way: DynamoDB. DynamoDB is a NoSQL database, which means that it does not use SQL to query data. It is a key-value store: basically, you store data under the form of JSON objects, that can be queried using a key.
@@ -297,8 +305,11 @@ I would really appreciate if you could react and share this article with your fr
 
 I you want to stay in touch here is my [twitter account][twitter account]. I often post or re-post interesting stuff about AWS and serverless, feel free to follow me!
 
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
 [repository]: https://github.com/PChol22/learn-serverless
 [twitter account]: https://twitter.com/PierreChollet22
 [last article]: https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac
 [pay-per-use-ddb]: https://dev.to/kumo/aws-cdk-and-dynamodb-this-one-configuration-line-that-is-costing-you-hundreds-of-dollars-33kd
 [dynamodb-docs]: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
+[sls-mentor]: https://www.sls-mentor.dev

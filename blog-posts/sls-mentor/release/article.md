@@ -18,6 +18,8 @@ sls-mentor is an open-source tool allowing you to analyze your AWS Serverless ap
 
 To do so, sls-mentor assesses your architecture against a set of rules and gives you tips to improve it!
 
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## The birth of a best-practices encyclopedia
 
 I have been working for [Kumo][kumo] as a fullstack software engineer these last nine months. During this period, I discovered a technology that changed my perception of web development: AWS serverless. Serverless is great but AWS offers so many services, resources and possible configurations that it may sometimes be hard to find best practices.

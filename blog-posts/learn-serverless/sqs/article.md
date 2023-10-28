@@ -11,6 +11,14 @@ canonical_url:
 
 In this series, I try to explain the basics of serverless on AWS, to enable you to build your own serverless applications. With [last article][article eventbridge], we discovered how to use EventBridge to build event-driven applications. Today, we will dive deeper into events management by taking a look at SQS and its integration with lambda functions.
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Introduction
 
 SQS is Amazon's Simple Queue Service. As its name suggests, it is a fully managed queue service, that allows you to store messages while waiting for them to be processed. It is a very useful service to decouple your applications, and to build event-driven applications. It is also a very good way to handle asynchronous tasks, and to manage your application's load.
@@ -415,6 +423,8 @@ I would really appreciate if you could react and share this article with your fr
 
 I you want to stay in touch here is my [twitter account][twitter account]. I often post or re-post interesting stuff about AWS and serverless, feel free to follow me!
 
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
 [repository]: https://github.com/PChol22/learn-serverless
 [twitter account]: https://twitter.com/PierreChollet22
 [article eventbridge]: https://dev.to/kumo/learn-serverless-on-aws-step-by-step-eventbridge-27aa
@@ -422,3 +432,4 @@ I you want to stay in touch here is my [twitter account][twitter account]. I oft
 [sqs documentation]: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
 [visibility timeout]: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-timeout.html
 [article ses]: https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp
+[sls-mentor]: https://sls-mentor.dev

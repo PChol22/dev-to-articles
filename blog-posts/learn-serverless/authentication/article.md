@@ -11,6 +11,14 @@ canonical_url:
 
 In this series, I try to explain the basics of serverless on AWS, to enable you to build your own serverless applications. With last articles, we learned together how to create Lambda functions, rest APIs, databases and file storage. In this article, we will learn how to add authentication to our APIs using Cognito, handle sign-in, and create protected API routes.
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Introduction to Cognito
 
 Cognito is the authentication service of AWS. It allows you to create user pools, which contain the information of your users (username, email, password, etc.), stored in a safe and secure way. Plugged on these user pools, you can create user pool clients, which are the applications that will use the user pools to authenticate users. For example, you can create a user pool for your web application, and another one for your mobile application. Each of these applications will have its own App Client, and will be able to authenticate users using the same user pool.
@@ -325,3 +333,4 @@ I you want to stay in touch here is my [twitter account][twitter account]. I oft
 
 [repository]: https://github.com/PChol22/learn-serverless
 [twitter account]: https://twitter.com/PierreChollet22
+[sls-mentor]: https://www.sls-mentor.dev

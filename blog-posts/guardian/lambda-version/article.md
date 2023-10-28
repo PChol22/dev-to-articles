@@ -10,6 +10,10 @@ canonical_url:
 
 _This article is part of a series on [sls-mentor][sls-mentor], an open-source, highly configurable, automated best-practice audit tool for AWS serverless architectures._
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
 # Let's keep track
 
 Lambda versioning is great and might come in handy, but do you really need to keep dozens of outdated copies of your functions' code ? Here are two reasons why you should get rid of them.

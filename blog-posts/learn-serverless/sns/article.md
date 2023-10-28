@@ -19,6 +19,10 @@ In this article, we will create a SNS topic, and use it to send notifications to
 
 {% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
 
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Amazon Simple Notification Service (SNS)
 
 ### What is SNS?
@@ -267,3 +271,4 @@ I you want to stay in touch here is my [twitter account][twitter]. I often post 
 [twitter]: https://twitter.com/PierreChollet22
 [repository]: https://github.com/PChol22/learn-serverless
 [article-1]: https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac
+[sls-mentor]: https://www.sls-mentor.dev/

@@ -20,7 +20,13 @@ canonical_url:
 - In this article, learn in a few steps how to **deploy a Next.js application on AWS with SST**.
 - _Bonus_: I will also show you how to **deploy your website on your own domain name**, using SST!
 
-I post serverless content very regularly, follow me on [Twitter][twitter] to stay up to date!
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
 
 ## Why Next.js and SST?
 
@@ -203,3 +209,4 @@ Finally, I would greatly appreciate if you follow me on [Twitter][twitter] and s
 [learn serverless]: https://dev.to/pchol22/series/22030
 [twitter]: https://twitter.com/PierreChollet22
 [github]: https://github.com/PChol22/next-sst
+[sls-mentor]: https://sls-mentor.dev

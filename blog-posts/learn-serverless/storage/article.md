@@ -9,6 +9,14 @@ canonical_url:
 
 _In the [last article][last article], I covered the basics of interacting with DynamoDB databases, using the CDK. In this article, I will cover how to store data as files using Amazon S3. This series will continue! Follow me on [twitter][twitter account] or DEV to be notified when the next article is published!_
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor-website]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 ## Store files the serverless way with Amazon S3
 
 Two weeks ago, I covered the basics of interacting with DynamoDB databases, these databases are great for storing structured data, composed of small items: the size limit for a single item is 400 KB. However, what if you want to store large files? In this case, you should use Amazon S3, a service that allows you to store files in the cloud.
@@ -368,6 +376,8 @@ I plan to continue this series of articles on a bi-monthly basis. I already cove
 I would really appreciate if you could react and share this article with your friends and colleagues. It will help me a lot to grow my audience. Also, don't forget to subscribe to be updated when the next article comes out!
 
 I you want to stay in touch here is my [twitter account][twitter account]. I often post or re-post interesting stuff about AWS and serverless, feel free to follow me!
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
 
 [repository]: https://github.com/PChol22/learn-serverless
 [twitter account]: https://twitter.com/PierreChollet22

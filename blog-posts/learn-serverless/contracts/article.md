@@ -16,6 +16,10 @@ Maybe you noticed that we didn't share any types between our frontend and our ba
 
 _⚠️ This article is a direct follow-up of the [previous one][article-frontend]. If you haven't read it yet, I strongly recommend you to do so before reading this one! You can find the code where I left it [here][repository-last-article]._
 
+⬇️ I post serverless content very regularly, if you want more ⬇️
+
+{% cta https://twitter.com/PierreChollet22 %} Follow me on twitter 🚀 {% endcta %}
+
 **What will we do today?**
 
 - Create contracts to share types between our frontend and our backend
@@ -23,6 +27,10 @@ _⚠️ This article is a direct follow-up of the [previous one][article-fronten
 - Use them to make API calls from our frontend faster and more robustly
 
 If you have difficulties to follow, you can find the code at the end of the article [here][repository].
+
+_**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][sls-mentor]. It is a compilation of 30 serverless best-practices, that are automatically checked on your AWS serverless projects (no matter the framework). It is free and open source, feel free to check it out!_
+
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
 
 ## Where did we leave last time?
 
@@ -375,3 +383,4 @@ I you want to stay in touch here is my [twitter account][twitter]. I often post 
 [zod]: https://github.com/colinhacks/zod
 [middy]: https://github.com/middyjs/middy
 [swarmion-github]: https://github.com/swarmion/swarmion
+[sls-mentor]: https://www.sls-mentor.dev/

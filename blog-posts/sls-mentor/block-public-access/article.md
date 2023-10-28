@@ -63,6 +63,8 @@ It's as simple as that! I showed you the TypeScript version, but CDK is availabl
 
 Feel free to check out our [GitHub repository][sls-mentor-github] and open a pull request or an issue! We have issues for all levels of experience, so don't hesitate to contribute!
 
+{% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
+
 _I publish articles at least twice a month, so if you are interested in serverless, AWS, or JavaScript, you can follow me on [Twitter][twitter] or DEV!_
 
 [sls-mentor]: https://www.sls-mentor.dev
