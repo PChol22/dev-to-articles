@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step: Master DynamoDB!'
+title: 'Getting started with AWS serverless: Master DynamoDB!'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/ddb-toolbox/assets/cover.png
 description: 'Learn how to improve your DynamoDB developer experience and become a pro! Featuring strongly typed commands and queries'
 tags: serverless, AWS, javascript, tutorial
