@@ -90,5 +90,9 @@
   {
     "id": 1659892,
     "relativePathToArticle": "./blog-posts/learn-serverless/s3-upload/article.md"
+  },
+  {
+    "id": 1664805,
+    "relativePathToArticle": "./blog-posts/lambda-node-20/article.md"
   }
 ]
