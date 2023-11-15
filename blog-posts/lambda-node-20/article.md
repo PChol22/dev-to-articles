@@ -19,6 +19,10 @@ _**Quick announcement:** I also work on a library called [🛡 sls-mentor 🛡][
 
 {% cta https://github.com/sls-mentor/sls-mentor %} Find sls-mentor on Github ⭐️ {% endcta %}
 
+## 🚨 Last minute update: Node 20 managed runtime is now available, no need to use container images anymore 🚨
+
+If you still want to learn how to deploy a Lambda function using a container image, back to the article ⬇️
+
 ## How to deploy a pre-release Node 20 Lambda function on AWS?
 
 Node 20 isn't officially supported by AWS Lambda yet. However, AWS released a public base image for Node 20 Lambda runtime last week. It is possible to use this base image to build a custom runtime with docker, and use it to deploy Lambda functions on AWS. This is achieved in three simple steps:
