@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step: Upload files on S3'
+title: 'Getting started with AWS serverless: Upload files on S3'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/s3-upload/assets/cover-img.png
 description: 'Learn how to upload files on S3 from a React application, using a Lambda function and a presigned URL'
 tags: serverless, AWS, javascript, tutorial
