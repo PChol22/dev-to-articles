@@ -98,5 +98,9 @@
   {
     "id": 1672861,
     "relativePathToArticle": "./blog-posts/learn-serverless/lambda-destinations/article.md"
+  },
+  {
+    "id": 1689041,
+    "relativePathToArticle": "./blog-posts/sls-mentor/5-best-practices/article.md"
   }
 ]
