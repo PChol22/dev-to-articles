@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Learn serverless on AWS step-by-step: Lambda Destinations'
+title: 'Getting started with AWS serverless: Lambda Destinations'
 cover_image: https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/lambda-destinations/assets/cover.png
 description: 'Lambda Destinations allow you to route the asynchronous execution results of your Lambdas to other AWS services. In this article, discover how to use them to be notified when your Lambda function fails'
 tags: serverless, AWS, javascript, tutorial

@@ -102,5 +102,9 @@
   {
     "id": 1689041,
     "relativePathToArticle": "./blog-posts/sls-mentor/5-best-practices/article.md"
+  },
+  {
+    "id": 1728583,
+    "relativePathToArticle": "./blog-posts/learn-serverless/scheduler/article.md"
   }
 ]
