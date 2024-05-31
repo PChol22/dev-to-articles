@@ -106,5 +106,9 @@
   {
     "id": 1728583,
     "relativePathToArticle": "./blog-posts/learn-serverless/scheduler/article.md"
+  },
+  {
+    "id": 1872159,
+    "relativePathToArticle": "./blog-posts/sls-mentor/dashboard/article.md"
   }
 ]
