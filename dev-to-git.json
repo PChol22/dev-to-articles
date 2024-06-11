@@ -110,5 +110,9 @@
   {
     "id": 1872159,
     "relativePathToArticle": "./blog-posts/sls-mentor/dashboard/article.md"
+  },
+  {
+    "id": 1884552,
+    "relativePathToArticle": "./blog-posts/migration-cdk/why-migrate/article.md"
   }
 ]
