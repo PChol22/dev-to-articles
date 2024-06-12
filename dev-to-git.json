@@ -114,5 +114,9 @@
   {
     "id": 1884552,
     "relativePathToArticle": "./blog-posts/migration-cdk/why-migrate/article.md"
+  },
+  {
+    "id": 1885487,
+    "relativePathToArticle": "./blog-posts/migration-cdk/how-migrate/article.md"
   }
 ]
